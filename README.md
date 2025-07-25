@@ -15,7 +15,7 @@
 7. [Contributing](#contributing)  
 8. [Roadmap](#roadmap)  
 9. [License](#license)  
-10. [Contact](#contact)  
+10. [Contact me](#contact)  
 
 ---
 
